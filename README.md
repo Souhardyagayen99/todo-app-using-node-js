@@ -4,7 +4,7 @@
 ## cloning project
 
 ```
-git clone https://github.com/aphrodeosubarno/node-js-todo-app.git
+git clone https://github.com/Souhardyagayen99/todo-app-using-node-js
 ```
 
 ## install dependencies
